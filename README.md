@@ -5,7 +5,7 @@ Environmental, Social, and Corporate Governance
 ## Typical Pitch Requirements
 ---
 
-1. Target market siye and growth projections
+1. Target market size and growth projections
 2. Business model showing costs, pricing and margins
 3. Team skills depth, domain experience, and track record
 4. Intellectual property and sustainable competitive advantage
